@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3a108872-5ec1-3317-8a4d-683209130303",
+    "name": "el_zair",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
