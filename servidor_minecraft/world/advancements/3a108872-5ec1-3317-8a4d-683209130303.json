@@ -1,9 +1,26 @@
 {
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "beef": "2024-12-06 06:59:13 +0000",
-      "potato": "2024-12-06 07:09:41 +0000",
-      "bread": "2024-12-06 07:00:52 +0000"
+      "minecraft:old_growth_pine_taiga": "2024-12-06 07:12:50 +0000",
+      "quark:glimmering_weald": "2024-12-06 07:15:48 +0000",
+      "minecraft:cherry_grove": "2024-12-06 07:21:37 +0000",
+      "minecraft:birch_forest": "2024-12-06 07:11:23 +0000",
+      "minecraft:badlands": "2024-12-06 06:54:17 +0000",
+      "minecraft:savanna_plateau": "2024-12-06 07:19:22 +0000",
+      "minecraft:river": "2024-12-06 06:59:18 +0000",
+      "minecraft:grove": "2024-12-06 07:11:28 +0000",
+      "minecraft:jagged_peaks": "2024-12-06 07:18:38 +0000",
+      "minecraft:cold_ocean": "2024-12-06 07:24:39 +0000",
+      "minecraft:forest": "2024-12-06 07:13:57 +0000",
+      "minecraft:desert": "2024-12-06 06:53:46 +0000",
+      "minecraft:ocean": "2024-12-06 07:24:03 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-06 07:13:54 +0000",
+      "minecraft:warm_ocean": "2024-12-06 07:08:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-06 07:08:37 +0000",
+      "minecraft:frozen_peaks": "2024-12-06 07:12:10 +0000",
+      "minecraft:deep_dark": "2024-12-06 07:15:34 +0000",
+      "minecraft:meadow": "2024-12-06 07:11:22 +0000",
+      "minecraft:plains": "2024-12-06 07:22:17 +0000"
     },
     "done": false
   },
@@ -34,40 +51,23 @@
     },
     "done": false
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2024-12-06 07:12:50 +0000",
-      "quark:glimmering_weald": "2024-12-06 07:15:48 +0000",
-      "minecraft:cherry_grove": "2024-12-06 07:21:37 +0000",
-      "minecraft:birch_forest": "2024-12-06 07:11:23 +0000",
-      "minecraft:badlands": "2024-12-06 06:54:17 +0000",
-      "minecraft:savanna_plateau": "2024-12-06 07:19:22 +0000",
-      "minecraft:river": "2024-12-06 06:59:18 +0000",
-      "minecraft:grove": "2024-12-06 07:11:28 +0000",
-      "minecraft:jagged_peaks": "2024-12-06 07:18:38 +0000",
-      "minecraft:cold_ocean": "2024-12-06 07:24:39 +0000",
-      "minecraft:forest": "2024-12-06 07:13:57 +0000",
-      "minecraft:desert": "2024-12-06 06:53:46 +0000",
-      "minecraft:ocean": "2024-12-06 07:24:03 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-06 07:13:54 +0000",
-      "minecraft:warm_ocean": "2024-12-06 07:08:25 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-12-06 07:08:37 +0000",
-      "minecraft:frozen_peaks": "2024-12-06 07:12:10 +0000",
-      "minecraft:deep_dark": "2024-12-06 07:15:34 +0000",
-      "minecraft:meadow": "2024-12-06 07:11:22 +0000",
-      "minecraft:plains": "2024-12-06 07:22:17 +0000"
+      "killed_something": "2024-12-06 06:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2024-12-06 06:59:13 +0000",
+      "potato": "2024-12-06 07:09:41 +0000",
+      "bread": "2024-12-06 07:00:52 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-06 06:59:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-06 06:58:42 +0000"
     },
     "done": true
   },
